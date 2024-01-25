@@ -15,7 +15,7 @@ Hey there! I'm Wagner, a passionate full-stack developer on a journey to dive in
 I'm developing a personal study project called [MEDSYS](https://github.com/wagnerlopesbr/MEDSYS) that simulates real-world problems, showcasing my ability to apply theoretical knowledge to practical solutions. This project, entirely developed by me, reflects my dedication and passion for solving real-world challenges through code and continues to grow whenever I have time to work on it.
 
 ### Trybe Bootcamp Projects
-During my time at @Trybe, I've worked on numerous projects covering various aspects of full-stack development. Check out my repositories for a glimpse of the skills and creativity I bring to the table. I separated these 2 to example: [Store Manager](https://github.com/wagnerlopesbr/project-store-manager) | [Recipes App](https://github.com/wagnerlopesbr/project-recipes-app).
+During my time at [Trybe](https://www.betrybe.com/), I've worked on numerous projects covering various aspects of full-stack development. Check out my repositories for a glimpse of the skills and creativity I bring to the table. I separated these 2 to example: [Store Manager](https://github.com/wagnerlopesbr/project-store-manager) | [Recipes App](https://github.com/wagnerlopesbr/project-recipes-app).
 
 ## Technology Stack
 
