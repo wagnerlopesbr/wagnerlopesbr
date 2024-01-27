@@ -38,6 +38,6 @@ During my time at [Trybe](https://www.betrybe.com/), I've worked on numerous pro
 
 I'm always open to collaboration, learning opportunities, and constructive feedback. Feel free to explore my repositories, and if you find something interesting or have suggestions, don't hesitate to reach out. Let's build something amazing together! 🚀
 
-Connect with me on [LinkedIn](https://linkedin/in/wagnerlopesbr).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/wagnerlopesbr/).
 
 Happy coding! 🌟
