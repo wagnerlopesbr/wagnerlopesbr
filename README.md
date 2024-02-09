@@ -6,8 +6,8 @@ Hey there! I'm Wagner, a passionate full-stack developer on a journey to dive in
 
 - **Name:** Wagner Lopes
 - **Professional Goal:** Seeking my first professional experience in the software development industry.
-- **Academic Background:** Proficient in both front-end and back-end development.
-- **Programming Language:** My main language at the moment is JavaScript, and even though I am a “Back-End” enthusiast, I am open to learning anything for professional growth.
+- **Academic Background:** Full-Stack Web Development course at Trybe and studying Computer Science (bachelor) at [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/).
+- **Programming Language:** My main language at the moment is JavaScript, and even though I'm a “Back-End” enthusiast, I am open to learning anything for professional growth.
 
 ## Projects Highlights
 
