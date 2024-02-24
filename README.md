@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 👋
 
-  Hey there! I'm Wagner, a Software Developer and future Data Science/Machine Learning professional. Here is my [LinkedIn](https://www.linkedin.com/in/wagnerlopesbr/)!
+  Hey there! I'm Wagner, a Software Developer and future Data/Machine Learning professional. Here is my [LinkedIn](https://www.linkedin.com/in/wagnerlopesbr/)!
 
 ## **Academic Background:**
 - Full-Stack Web Development course at [Trybe](https://www.betrybe.com/).
