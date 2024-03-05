@@ -3,8 +3,8 @@
   Hey there! I'm Wagner, a Software Developer and future Data/Machine Learning professional. Here is my [LinkedIn](https://www.linkedin.com/in/wagnerlopesbr/)!
 
 ## **Academic Background:**
-- Full-Stack Web Development course at [Trybe](https://www.betrybe.com/).
-- Computer Science (bachelor) at [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/).
+- Full-Stack Web Development course at [Trybe](https://www.betrybe.com/) (2023-2024).
+- Computer Science (bachelor) at [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) (2024-2028).
 - **Programming Language:** My main language at the moment is JavaScript and I'll focus on learning Python. I am also open to learning anything for my professional growth.
 
 
