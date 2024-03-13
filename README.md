@@ -40,6 +40,7 @@
         <th><a href="https://github.com/wagnerlopesbr/MEDSYS">MEDSYS (personal sandbox project)</a></th>
         <th><a href="https://github.com/wagnerlopesbr/project-store-manager">Store Manager</a></th>
         <th><a href="https://github.com/wagnerlopesbr/project-recipes-app">Recipes App</a></th>
+        <th><a href="https://github.com/wagnerlopesbr/Lexartlabs-Test">Full-Stack JavaScript Test</a></th>
       </tr>
     </thead>
   </table>
