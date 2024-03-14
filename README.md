@@ -30,9 +30,7 @@
 
 
 ## **Projects Highlights**
-  I'm have a personal "sandbox*" study project called MEDSYS that simulates a real-world hospital system in which the user can run CRUD actions and other stuffs, showcasing my ability to apply theoretical knowledge to practical solutions. *sandbox -> I can try techniques/methods/libraries that I'm studying*
-
-  During my time at Trybe, I've worked on numerous projects covering various aspects of full-stack development. I didn't save them all because some projects are too simple and basic *(really begginner level like HTML syntaxes, Programming Language basics like "Hello World" prints, etc)*, but I selected a few projects so you can check out my repositories for a glimpse of the skills and creativity I bring to the table.
+  During my time at Trybe, I've worked on numerous projects covering various aspects of full-stack development. I have a personal "sandbox*" study project called MEDSYS that simulates a real-world hospital system in which the user can run CRUD actions and other stuffs, showcasing my ability to apply theoretical knowledge to practical solutions. *(sandbox -> I can try techniques/methods/libraries that I'm studying)*
 <div>
   <table>
     <thead>
