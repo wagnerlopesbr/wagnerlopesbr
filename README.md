@@ -5,10 +5,9 @@
 ## **Academic Background:**
 - Full-Stack Web Development course at [Trybe](https://www.betrybe.com/) (2023-2024).
 - Computer Science (bachelor) at [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) (2024-2028).
-- **Programming Language:** My main language at the moment is JavaScript and I'll focus on learning Python. I am also open to learning anything for my professional growth.
+- **Programming Language:** My main language at the moment is JavaScript.
 
-
-## **Technology Stack**
+## **Development Stack**
 <div>
   <table>
     <thead>
@@ -27,18 +26,17 @@
   </table>
 </div>
 
-
-
-## **Projects Highlights**
-  During my time at Trybe, I've worked on numerous projects covering various aspects of full-stack development. I have a personal "sandbox*" study project called MEDSYS that simulates a real-world hospital system in which the user can run CRUD actions and other stuffs, showcasing my ability to apply theoretical knowledge to practical solutions. *(sandbox -> I can try techniques/methods/libraries that I'm studying)*
+## **Study Plan**
 <div>
   <table>
     <thead>
       <tr>
-        <th><a href="https://github.com/wagnerlopesbr/MEDSYS">MEDSYS (personal sandbox project)</a></th>
-        <th><a href="https://github.com/wagnerlopesbr/project-store-manager">Store Manager</a></th>
-        <th><a href="https://github.com/wagnerlopesbr/project-recipes-app">Recipes App</a></th>
-        <th><a href="https://github.com/wagnerlopesbr/Lexartlabs-Test">Full-Stack JavaScript Test</a></th>
+        <th>Python</th>
+        <th>Statistic</th>
+        <th>ETL</th>
+        <th>Machine Learning</th>
+        <th>R</th>
+        <th>Power BI</th>
       </tr>
     </thead>
   </table>
