@@ -1,6 +1,7 @@
 # Welcome to my GitHub! 👋
 
   Hey there! I'm Wagner, a Software Developer and future Data/Machine Learning professional. Here is my [LinkedIn](https://www.linkedin.com/in/wagnerlopesbr/)!
+Email: wagnerlopesbr@hotmail.com
 
 ## **Academic Background:**
 - Full-Stack Web Development course at [Trybe](https://www.betrybe.com/) (2023-2024).
