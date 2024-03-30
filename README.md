@@ -8,7 +8,7 @@ Contact: wagnerlopesbr@hotmail.com
 ## **Academic Background:**
 - Full-Stack Web Development course at [Trybe](https://www.betrybe.com/) (2023-2024).
 - Computer Science (bachelor) at [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) (2024-2028).
-- **Programming Language:** My main language at the moment is JavaScript.
+- **Programming Language:** My main language at the moment is JavaScript. Studying Python! 🐍
 
 ## **Development Stack**
 <div>
