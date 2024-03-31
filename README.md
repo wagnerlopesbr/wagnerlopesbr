@@ -2,10 +2,10 @@
 
 <table>
     <th>
-      Hey there!<br>
-      I'm Wagner, a Software Developer and future Data/Machine Learning professional.<br>
-      Here is my <a href="https://www.linkedin.com/in/wagnerlopesbr/">LinkedIn</a>!<br>
-      Contact: <i><strong>wagnerlopesbr@hotmail.com</strong></i>
+      Hi, my name is Wagner!<br>
+      I'm a Software Developer and future Data/Machine Learning professional.<br>
+      Contact: <i><strong>wagnerlopesbr@hotmail.com</strong></i><br>
+      <a href="https://www.linkedin.com/in/wagnerlopesbr/">LinkedIn</a>
     </th>
     <th>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlopesbr&layout=compact" />
