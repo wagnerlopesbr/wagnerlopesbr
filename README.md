@@ -1,9 +1,16 @@
 # Welcome to my GitHub! 👋
 
-  Hey there!<br>
-I'm Wagner, a Software Developer and future Data/Machine Learning professional.<br>
-Here is my [LinkedIn](https://www.linkedin.com/in/wagnerlopesbr/)!<br>
-Contact: wagnerlopesbr@hotmail.com
+<table>
+    <th>
+      Hey there!<br>
+      I'm Wagner, a Software Developer and future Data/Machine Learning professional.<br>
+      Here is my <a href="https://www.linkedin.com/in/wagnerlopesbr/">LinkedIn</a>!<br>
+      Contact: <i><strong>wagnerlopesbr@hotmail.com</strong></i>
+    </th>
+    <th>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlopesbr&layout=compact" />
+    </th>
+</table>
 
 ## **Academic Background:**
 - Full-Stack Web Development course at [Trybe](https://www.betrybe.com/) (2023-2024).
