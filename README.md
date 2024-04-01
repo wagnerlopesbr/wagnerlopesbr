@@ -1,16 +1,13 @@
-# Welcome to my GitHub! 👋
+# Welcome to my GitHub!
+<div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlopesbr&layout=compact&hide_title=true" />
 
-<table>
-    <th>
-      Hi, my name is Wagner!<br>
-      I'm a Software Developer and future Data/Machine Learning professional.<br>
-      Contact: <i><strong>wagnerlopesbr@hotmail.com</strong></i><br>
-      <a href="https://www.linkedin.com/in/wagnerlopesbr/">LinkedIn</a>
-    </th>
-    <th>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlopesbr&layout=compact" />
-    </th>
-</table>
+Hi, my name is Wagner! ☺️<br>
+I'm a Software Developer and future Data/Machine Learning professional.<br>
+Contact: <i><strong>wagnerlopesbr@hotmail.com</strong></i><br>
+<a href="https://www.linkedin.com/in/wagnerlopesbr/">LinkedIn</a>
+    <br>
+</div>
 
 ## **Academic Background:**
 - Full-Stack Web Development course at [Trybe](https://www.betrybe.com/) (2023-2024).
@@ -55,4 +52,4 @@
 ## Let's Connect!
 I'm always open to collaboration, learning opportunities, and constructive feedback. Feel free to explore my repositories, and if you find something interesting or have suggestions, don't hesitate to reach out. Let's build something amazing together! 🚀
 
-See ya! 🌟
+See ya and <i><strong>SRN</strong></i>🔴⚫!
