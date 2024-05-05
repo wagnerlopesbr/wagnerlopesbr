@@ -10,15 +10,15 @@ Contact: <i><strong>wagnerlopesbr@hotmail.com</strong></i><br>
 </div>
 
 ## **Academic Background:**
-- Full-Stack Web Development course at [Trybe](https://www.betrybe.com/) (2023-2024).
+- Full-Stack Web Development bootcamp at [Trybe](https://www.betrybe.com/) (2023-2024).
 - Computer Science (bachelor) at [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) (2024-2028).
-- **Programming Language:** My main language at the moment is JavaScript. Studying Python! 🐍
 
-## **Development Stack**
+## **Skills**
 <div>
   <table>
     <thead>
       <tr>
+        <th>Python</th>
         <th>JavaScript</th>
         <th>SQL</th>
         <th>Node</th>
@@ -38,7 +38,6 @@ Contact: <i><strong>wagnerlopesbr@hotmail.com</strong></i><br>
   <table>
     <thead>
       <tr>
-        <th>Python</th>
         <th>Statistic</th>
         <th>ETL</th>
         <th>Machine Learning</th>
