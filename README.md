@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlopesbr&layout=compact&hide_title=true" />
 
 Hi, my name is Wagner! ☺️<br>
-I'm a Software Developer and future Data/Machine Learning professional.<br>
+I'm a Software Developer and Data/Machine Learning enthusiast.<br>
 <strong>wagnerlopesbr@hotmail.com<br>
 <a href="https://www.linkedin.com/in/wagnerlopesbr/">LinkedIn</a></strong>
     <br>
