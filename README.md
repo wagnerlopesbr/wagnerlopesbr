@@ -11,7 +11,7 @@ I'm a Software Developer and Data/Machine Learning enthusiast.<br>
 
 ## **Academic Background:**
 - **Full-Stack Web Development** bootcamp at [Trybe](https://www.betrybe.com/) (2023-2024).
-- **Computer Science (bachelor)** at [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) (2024-2028).
+- **Computer Science (bachelor)** at [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) (2024-2027).
 
 <div>
   <table>
