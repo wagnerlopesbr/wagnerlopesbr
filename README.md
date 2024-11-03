@@ -3,14 +3,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlopesbr&layout=compact&hide_title=true" />
 
 Hi, my name is Wagner! ☺️<br>
-I'm a Software Developer and Data/Machine Learning enthusiast.<br>
+I'm a Software Engineer and Data/Machine Learning enthusiast.<br>
 <strong>wagnerlopesbr@hotmail.com<br>
 <a href="https://www.linkedin.com/in/wagnerlopesbr/">LinkedIn</a></strong>
     <br>
 </div>
 
 ## **Academic Background:**
-- **Full-Stack Web Development** bootcamp at [Trybe](https://www.betrybe.com/) (2023-2024).
+- **Full-Stack Development** bootcamp at [Trybe](https://www.betrybe.com/) (2023-2024).
 - **Computer Science (bachelor)** at [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) (2024-2027).
 
 <div>
@@ -23,9 +23,12 @@ I'm a Software Developer and Data/Machine Learning enthusiast.<br>
         <th>ETL</th>
         <th>JavaScript</th>
         <th>Node</th>
+        <th>PHP</th>
+        <th>C#</th>
         <th>Docker</th>
         <th>Git</th>
         <th>React</th>
+        <th>React Native</th>
         <th>TypeScript</th>
         <th>Power BI</th>
         <th>HTML</th>
