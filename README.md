@@ -3,15 +3,22 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlopesbr&layout=compact&hide_title=true" />
 
 Hello! ☺️<br>
-I'm a Software Engineer/Data Scientist.<br>
+I'm a Data Engineer and Software Engineer.<br>
 <strong>wagnervieiralopesjunior@gmail.com<br>
 <a href="https://www.linkedin.com/in/wagnerlopesbr/">LinkedIn</a></strong>
     <br>
 </div>
 
 ## **Academic Background:**
-- **Computer Science (bachelor)** at [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) (2024-2027).
-- **Full-Stack Development** (bootcamp) at [Trybe](https://www.betrybe.com/) (2023-2024).
+- **Bachelor's in Computer Science** at [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) (2024-2027).  
+- **Full-Stack Development Bootcamp** at [Trybe](https://www.betrybe.com/) (2023-2024).
+
+## Professional Experience
+- **Data Engineer** at Talismã Consultoria e Treinamentos | 02/2025 – Present  
+  Responsible for developing and maintaining scalable data pipelines for structured and unstructured data, creating and managing Data Lakes, integrating computer vision solutions, performing exploratory data analysis, developing dashboards, and automating workflows to ensure data quality, governance, and availability.
+
+- **Software Engineer** at Talismã Consultoria e Treinamentos | 08/2024 – 02/2025  
+  Developed, deployed, and maintained the Moodle LMS platform, focusing on scalability and stability. Optimized legacy code and database performance, and managed infrastructure on shared servers (HostGator, Hostinger) using Linux and Apache.
 
 ## Skills
 
@@ -20,36 +27,36 @@ I'm a Software Engineer/Data Scientist.<br>
     <td>Python</td>
     <td>Pandas</td>
     <td>SQL</td>
-    <td>Databases</td>
-    <td>API</td>
+    <td>Airflow</td>
+    <td>dbt</td>
   </tr>
   <tr>
     <td>NumPy</td>
     <td>Matplotlib</td>
     <td>Power BI</td>
     <td>Docker</td>
-    <td>Deployment</td>
+    <td>Cloud (AWS, GCP, Azure)</td>
   </tr>
   <tr>
-    <td>ETL</td>
+    <td>ETL/ELT</td>
     <td>OpenCV</td>
-    <td>OCR</td>
-    <td>A/B testing</td>
-    <td>Logging Systems</td>
+    <td>OCR (Tesseract, EasyOCR)</td>
+    <td>Logging & Monitoring</td>
+    <td>Data Lakes & Warehouses</td>
   </tr>
   <tr>
-    <td>Testing</td>
     <td>JavaScript</td>
     <td>TypeScript</td>
-    <td>PHP</td>
-    <td>C#</td>
+    <td>React</td>
+    <td>FastAPI</td>
+    <td>Node.js</td>
   </tr>
   <tr>
-    <td>Messaging Systems</td>
-    <td>Server Management</td>
-    <td>FTP</td>
-    <td>cPanel</td>
-    <td>hPanel</td>
+    <td>RabbitMQ</td>
+    <td>Git</td>
+    <td>Linux</td>
+    <td>SQL Databases (MySQL, PostgreSQL)</td>
+    <td>NoSQL (MongoDB)</td>
   </tr>
 </table>
 
