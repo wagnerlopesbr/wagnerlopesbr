@@ -2,11 +2,12 @@
 <div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlopesbr&layout=compact&hide_title=true" />
 
-***Data Engineer*** and ***Software Engineer***.<br>
+***Data Engineer*** | ***Software Engineer***.<br>
 <strong>wagnervieiralopesjunior@gmail.com<br>
 <a href="https://www.linkedin.com/in/wagnerlopesbr/">LinkedIn</a></strong>
     <br>
 </div>
+<br>
 
 ## **Academic Background:**
 - **Bachelor's in Computer Science** at [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) (2024-2027).  
