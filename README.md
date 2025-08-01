@@ -2,8 +2,7 @@
 <div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlopesbr&layout=compact&hide_title=true" />
 
-Hello! ☺️<br>
-I'm a Data Engineer and Software Engineer.<br>
+***Data Engineer*** and ***Software Engineer***.<br>
 <strong>wagnervieiralopesjunior@gmail.com<br>
 <a href="https://www.linkedin.com/in/wagnerlopesbr/">LinkedIn</a></strong>
     <br>
@@ -13,12 +12,11 @@ I'm a Data Engineer and Software Engineer.<br>
 - **Bachelor's in Computer Science** at [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) (2024-2027).  
 - **Full-Stack Development Bootcamp** at [Trybe](https://www.betrybe.com/) (2023-2024).
 
-## Professional Experience
-- **Data Engineer** at Talismã Consultoria e Treinamentos | 02/2025 – Present  
-  Responsible for developing and maintaining scalable data pipelines for structured and unstructured data, creating and managing Data Lakes, integrating computer vision solutions, performing exploratory data analysis, developing dashboards, and automating workflows to ensure data quality, governance, and availability.
-
-- **Software Engineer** at Talismã Consultoria e Treinamentos | 08/2024 – 02/2025  
-  Developed, deployed, and maintained the Moodle LMS platform, focusing on scalability and stability. Optimized legacy code and database performance, and managed infrastructure on shared servers (HostGator, Hostinger) using Linux and Apache.
+## Languages
+- **Portuguese**: Native  
+- **English**: Proficient (C2 CEFR)  
+- **Spanish**: Intermediate  
+- **French**: Basic
 
 ## Skills
 
